@@ -1,0 +1,103 @@
+# PROJECT PLAN
+## Project: Portfolio Website
+
+## Objectives
+    - To develop a website that displays projects that I have worked on (HTML + CSS)
+    - To include one interactive feature using JS
+    - To use Git to version control
+    - To use command line and file navigation
+    - To develop locally on the computer
+    - To deploy the site using GitHub Pages
+
+## Brainstorm
+    - Developing the website
+        - Wireframe
+            - Research free wireframing software
+        - Decide on content
+        - Choose styles
+            - Color palette
+            - Fonts
+            - Structural styling
+        - Code initial structure with HTML
+        - Apply styling with CSS
+        - Add interactive JS feature (include Fortune Teller app w/in website?)
+        - Make the website responsive
+    - Structure
+        - Research different simple website structures for inspiration
+        - Required stuff:
+            - Header
+            - Nav
+            - Main content split into different sections e.g:
+                - About me
+                - Projects
+                - Skills
+                - Contact me
+            - Footer
+        - Contact me needs to be on its own separate page
+    - Content
+        - Include three projects for now: one will be fortune teller app, other two use filler content for now
+        - Skills section: use icons to represent different coding skills
+            - HTML
+            - CSS
+            - JS
+            - Git and GitHub
+            - Bash
+        - About me section
+        - Contact me section (link to socials as icons)
+    - Use Git and GitHub
+        - Initial commit after setting up all files (exc. media)
+        - Commit after adding media files
+        - Commit after HTML structure setup
+        - Commit after styling with CSS
+        - Commit after adding JS feature
+        - Any additional commits after making small changes
+        - Link to GitHub repo w. initial commit, push any additional changes to GitHub as you go
+
+## Timeline
+
+### Tuesday 14/11/23
+    - Content written
+        - About Me
+        - Projects
+            - Fortune Teller
+                - Description
+                - Technology/Skills used
+                - Box and button to generate message
+            - Project two and three
+                - Filler text for description and technology/skills
+                - Generic stock image of web project for each
+        - Skills (just a dot point list)
+        - Contact
+            - Address
+            - Phone number
+            - Email
+            - Socials
+    - Wireframe complete
+        - Research different website structures/templates
+        - Research wireframing software
+        - Download and use wireframe software to adapt website structure to purpose
+    - Style elements decided
+        - Color palette selected
+            - Write colors on wireframe?
+        - Fonts selected (select two to three)
+            - Main title/Header
+            - Headings
+            - Main paragraph
+            - Subtitles/accent
+        - Structure
+            - Annotate wireframe with positions/margins/padding in relative units where relevant
+    - Media files gathered
+        - Image of me for about me page
+        - Icons for relevant skills
+        - Icons for social media
+        - Stock images of projects one and two
+    - Initial HTML structure complete (for main and contact pages)
+    - GitHub repository set up and initial commit made
+
+### Wednesday 15/11/2023
+    - Style site with CSS
+    - Add in JS functionality
+    - Make website responsive
+        - Identify breakpoints using Chrome DevTools
+        - Select two or three cases to write media queries for to make the website more responsive
+    - Commit and move website to GitHub pages
