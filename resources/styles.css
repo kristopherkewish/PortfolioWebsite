@@ -33,6 +33,11 @@ nav a {
     color: black;
     text-decoration: none;
     font-weight: bold;
+    transition: color 0.3s;
+}
+
+nav a:hover {
+    color: #55868C;
 }
 
 #about-me {
@@ -54,6 +59,21 @@ nav a {
     align-self: center;
     height: auto;
     width: 90%;
+}
+
+#contact-me {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: auto;
+    background-color: #55868C;
+    color: white;
+    padding: 6rem 4rem;
+}
+
+#contact-me li {
+    list-style-type: none;
+    margin: 2rem;
 }
 
 #projects {
