@@ -88,8 +88,8 @@
             - Annotate wireframe with positions/margins/padding in relative units where relevant
     - Media files gathered
         - Image of me for about me page
-        - Icons for relevant skills
-        - Icons for social media
+        - Icons for relevant skills <-- future update
+        - Icons for social media <-- future update
         - Stock images of projects one and two
     - Initial HTML structure complete (for main and contact pages)
     - GitHub repository set up and initial commit made
