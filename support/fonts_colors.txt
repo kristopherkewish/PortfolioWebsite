@@ -1,0 +1,15 @@
+# FONTS AND COLORS
+
+## COLOR PALLETTE
+'#EDEDE9'
+'#D6CCC2'
+'#F5EBE0'
+'#E3D5CA'
+'#D5BDAF'
+
+## FONTS
+For logo and headings
+Inconsolata
+
+For paragraphs
+Poppins
