@@ -6,6 +6,7 @@
 '#F5EBE0'
 '#E3D5CA'
 '#D5BDAF'
+'#55868C'
 
 ## FONTS
 For logo and headings
